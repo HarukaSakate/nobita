@@ -34,7 +34,8 @@ h1 {
 }
 
 h2 {
-    color: #007acc;
+    color: #ffffff;        
+    background-color: #007acc;
     border-bottom: 3px solid #ffcc00;
     padding-bottom: 5px;
     margin-top: 30px;
